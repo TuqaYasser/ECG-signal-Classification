@@ -7,9 +7,7 @@
 This project aims to classify ECG (Electrocardiogram) signals into different categories using deep learning techniques. The classification task involves identifying different cardiac arrhythmias based on the patterns present in the ECG signals.
 
 ## Data (i.e Very important note to download the Data)
-The data is very huge to upload on github, Please download the data from the this link and extract it in the Project folder.
-The link of the Data:
-https://physionet.org/content/edb/1.0.0/
+The data is very huge to upload on github, Please download the data from the this link https://physionet.org/content/edb/1.0.0/ and extract it in the Project folder.
 
 ## Table of Contents
 
